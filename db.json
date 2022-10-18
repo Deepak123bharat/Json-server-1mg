@@ -1,18 +1,4 @@
 {
-    "users": [
-        {
-            "name": "admin",
-            "email": "admin@gmail.com",
-            "password": "admin",
-            "id": 1
-        },
-        {
-            "name": "test",
-            "email": "test@gmail.com",
-            "password": "sfasf",
-            "id": 2
-        }
-    ],
     "cart": [],
     "SlidingBox_sec1": [
         {
@@ -192,10 +178,114 @@
             "price": "₹323"
         },
         {
-            "img": "",
             "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/nhu0rbh3wtdlr7pdhoq4.jpg",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹235",
+                "s3": "8% off"
+            },
+            "price": "₹216",
+            "id": 1
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/smpufwdh6hnpb8bzca01.jpg",
+            "alt": "top_sellers_img2",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹300",
+                "s3": "24% off"
+            },
+            "price": "₹228",
+            "id": 2
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/zmmkiohldjh3mhyhijrs.jpg",
+            "alt": "top_sellers_img3",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹34",
+                "s3": "11% off"
+            },
+            "price": "₹30",
+            "id": 3
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/eywlzc1uguxsy3c6cxpo.jpg",
+            "alt": "top_sellers_img4",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹425",
+                "s3": "26% off"
+            },
+            "price": "₹315",
+            "id": 4
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/cnndmskfmcldpwhljwcp.jpg",
+            "alt": "top_sellers_img5",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹150",
+                "s3": "6% off"
+            },
+            "price": "₹140",
+            "id": 5
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/sq90xrsd0094ag5kxluv.jpg",
+            "alt": "top_sellers_img6",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹54",
+                "s3": "22% off"
+            },
+            "price": "₹42",
+            "id": 6
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rb8pbcc2gnh5s8tbm853.jpg",
+            "alt": "top_sellers_img7",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹280",
+                "s3": "22% off"
+            },
+            "price": "₹218",
+            "id": 7
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/k2snx8bn1a5rphbbflrw.png",
+            "alt": "top_sellers_img8",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹219",
+                "s3": "43% off"
+            },
+            "price": "₹123",
+            "id": 8
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/nhu0rbh3wtdlr7pdhoq4.jpg",
+            "alt": "top_sellers_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
                 "s2": "₹419",
@@ -208,84 +298,205 @@
             "alt": "top_sellers_img1",
             "title": "",
             "desc": "",
-            "striked": {
-                "s1": "MRP",
-                "s2": "₹419",
-                "s3": "23% off"
-            },
-            "price": "₹323"
+            "price": "₹323",
+            "id": 9
         },
         {
-            "img": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nwxnyqzffmncgh4samzm.jpg",
             "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
                 "s2": "₹419",
                 "s3": "23% off"
             },
-            "price": "₹323"
+            "price": "₹323",
+            "id": 10
         },
         {
-            "img": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/fltabmwx0nimierve4fh.jpg",
             "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
                 "s2": "₹419",
                 "s3": "23% off"
             },
-            "price": "₹323"
+            "price": "₹323",
+            "id": 11
         },
         {
-            "img": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/mxage34bx5xfak0gkoia.jpg",
             "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
                 "s2": "₹419",
                 "s3": "23% off"
             },
-            "price": "₹323"
+            "price": "₹323",
+            "id": 12
+        }
+    ],
+    "Popular_Combo": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hkivk33molknvlppjtkg.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹670",
+                "s3": "15% off"
+            },
+            "price": "₹568",
+            "id": 1
         },
         {
-            "img": "",
-            "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c2sw0gi2dw4cwdf1ecjp.jpg",
+            "alt": "Popular_Combo_img2",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
-                "s2": "₹419",
-                "s3": "23% off"
+                "s2": "₹1299",
+                "s3": "7% off"
             },
-            "price": "₹323"
+            "price": "₹1201",
+            "id": 2
         },
         {
-            "img": "",
-            "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uca5jm0uqfqpjoyydzh0.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
-                "s2": "₹419",
-                "s3": "23% off"
+                "s2": "₹335",
+                "s3": "20% off"
             },
-            "price": "₹323"
+            "price": "₹268",
+            "id": 3
         },
         {
-            "img": "",
-            "alt": "top_sellers_img1",
-            "title": "",
-            "desc": "",
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qir6i2zlhzeddxa4mqt0.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹820",
+                "s3": "15% off"
+            },
+            "price": "₹697",
+            "id": 4
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/g6phmkjrdbw3x4nngxlr.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹535",
+                "s3": "6% off"
+            },
+            "price": "₹503",
+            "id": 5
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/if0qou7t1ptcaaowcigp.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
             "striked": {
                 "s1": "MRP",
                 "s2": "₹419",
                 "s3": "23% off"
             },
-            "price": "₹323"
+            "price": "₹323",
+            "id": 6
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/nhu0rbh3wtdlr7pdhoq4.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "1059",
+                "s3": "19% off"
+            },
+            "price": "₹854",
+            "id": 7
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/oexechydeypou9aw45xc.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "340",
+                "s3": "6% off"
+            },
+            "price": "317",
+            "id": 8
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/kig1l1egf5xcijweblix.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹419",
+                "s3": "23% off"
+            },
+            "price": "₹323",
+            "id": 9
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rxyazch4y08jvlgpapnj.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹419",
+                "s3": "63% off"
+            },
+            "price": "₹223",
+            "id": 10
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/nhu0rbh3wtdlr7pdhoq4.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹419",
+                "s3": "13% off"
+            },
+            "price": "₹373",
+            "id": 11
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yjf3zipjv3bzx1xdv4xo.jpg",
+            "alt": "Popular_Combo_img1",
+            "name": "Himalaya Herbals Purifying Neem Face..",
+            "desc": "pump bottle of 200 ml Face..",
+            "striked": {
+                "s1": "MRP",
+                "s2": "₹419",
+                "s3": "23% off"
+            },
+            "price": "₹323",
+            "id": 12
         }
     ],
     "MineralSupliment_sec": [
@@ -342,6 +553,398 @@
             "alt": "Copper_logo",
             "name": "Copper",
             "id": 9
+        }
+    ],
+    "Popular_categories": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/nnz4wznqh3g1momlj7i6.png",
+            "alt": "diabetes logo",
+            "name": "Diabetes Care",
+            "id": 1
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c7b76d60-380b-4ac6-a8f2-1c6c99f828c3.png",
+            "alt": "Nutritional_logo",
+            "name": "Nutritional Drinks",
+            "id": 2
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/yom4kujhcrmswwa7yqql.png",
+            "alt": "Healthcare_logo",
+            "name": "Healthcare Devices",
+            "id": 3
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/sjjktxvuqn3hgdf1zthz.png",
+            "alt": "Homeopathy_logo",
+            "name": "Homeopathy",
+            "id": 4
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/mxhslzet9tgwmmginf0x.png",
+            "alt": "Sexual_logo",
+            "name": "Sexual Wellness",
+            "id": 5
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/he8w8sxhmm2la752zjt2.png",
+            "alt": "Skin",
+            "name": "Skin Care",
+            "id": 6
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/xph6jwm1rkm53jytua1e.png",
+            "alt": "Vitamins_logo",
+            "name": "Vitamins & Supplements",
+            "id": 7
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/wxg1pt1dugbbmqk2hfhu.png",
+            "alt": "Pain_logo",
+            "name": "Pain Relief",
+            "id": 8
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bihah6g7bf8dgwbbe3hc.png",
+            "alt": "Ayurveda_logo",
+            "name": "Ayurveda",
+            "id": 9
+        }
+    ],
+    "Fitness_and_supplements": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/hyz3alaomnsvodlfr6yn.png",
+            "alt": "Vitamins-logo",
+            "name": "Vitamins & Supplements",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cv1so1bd03epqno2z3to.png",
+            "alt": "Protein-logo",
+            "name": "Protein Supplements",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/pae8ardj2unddupp36la.png",
+            "alt": "Health-logo",
+            "name": "Health Food & Drinks",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/p8cjjuj9qbdrikxet8s6.png",
+            "alt": "Nutritional-logo",
+            "name": "Nutritional Drinks",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/b855u2cmitwjv5wfjr1q.png",
+            "alt": "Immunity-logo",
+            "name": "Immunity Boosters",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ogtn4geufd0vbvn6ft3k.png",
+            "alt": "Omega-logo",
+            "name": "Omega & Fish Oil",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/eq1ot7mqxqr4jkd73kf1.png",
+            "alt": "Specialty-logo",
+            "name": "Specialty Supplements",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ligqeno0mnmr2v3ejkda.png",
+            "alt": "Weight-logo",
+            "name": "Weight Management",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/quxjulqgldr5mwacoadc.png",
+            "alt": "Chia-logo",
+            "name": "Chia, Flax, Quinoa & More",
+            "id": "9"
+        }
+    ],
+    "health_utsav": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/60494265-24ef-4c0c-870e-4174fe69120d.jpg",
+            "alt": "Accu-logo",
+            "name": "Accu-Chek",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/15ccab4c-69b6-4846-8a97-b1b7efc9c824.png",
+            "alt": "Optimum-logo",
+            "name": "Optimum Nutrition",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/f950811b-6de2-4006-b26e-e5a4e48b0492.png",
+            "alt": "Biluma-logo",
+            "name": "Biluma",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/2e0f0409-f446-4449-8513-78b969b1bab1.png",
+            "alt": "Manforce-logo",
+            "name": "Manforce",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/3495c3c6-418b-460c-9fdb-8145ef59d10d.png",
+            "alt": "Wellbeing-logo",
+            "name": "Wellbeing Nutirition",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/f2770b58-99b6-416a-9675-02dbff40c68e.png",
+            "alt": "Lacto-logo",
+            "name": "Lacto Calamine",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/e6062bf8-9238-4e8d-a175-6aab01283124.png",
+            "alt": "Dr. Vaidya's-logo",
+            "name": "Dr. Vaidya's",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/353c5f6c-65fd-4b27-9462-b290e83df2d1.png",
+            "alt": "Pentasure-logo",
+            "name": "Pentasure",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/52b373f4-98a7-47d5-a1d7-7fad3d28bfec.jpg",
+            "alt": "Celevida-logo",
+            "name": "Celevida",
+            "id": "9"
+        }
+    ],
+    "Homeopathy_brands": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/iy3hwyaywbcqhrrqxdv6.png",
+            "alt": "Dr Reckeweg-logo",
+            "name": "Dr Reckeweg",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/otbucp1ifveqrjvfd65j.png",
+            "alt": "SBL-logo",
+            "name": "SBL Homeopathy",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/n4uo5xa4vxadylucybu1.png",
+            "alt": "BJAIN-logo",
+            "name": "BJAIN Homeopathy",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/nksym712wf4y4b9p1k6j.png",
+            "alt": "Willmar-logo",
+            "name": "Dr Willmar Schwabe India",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/b6fcbfc4-40ec-47b6-9837-c44819a5ba54.png",
+            "alt": "ADEL-logo",
+            "name": "ADEL Homeopathy",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/kl9hlgtqytfgfqb6baa5.png",
+            "alt": "Bakson-logo",
+            "name": "Bakson's",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/izx9mv71op8u479tjb2h.png",
+            "alt": "Dr. Vaidya's-logo",
+            "name": "Dr. Batra's Products",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/jcnry9ai50sxgttj3rdq.png",
+            "alt": "HAPDCO-logo",
+            "name": "HAPDCO",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/pujzqz0sfqkfezbb7x3o.png",
+            "alt": "Wheezal-logo",
+            "name": "Wheezal",
+            "id": "9"
+        }
+    ],
+    "Health_FoodsDrinks": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/vuze6xhdat3watvwaro9.png",
+            "alt": "Green-tea-logo",
+            "name": "Green Tea & Herbal Tea",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/odov6fsbhdgwfnqnqmyf.jpg",
+            "alt": "Breakfast-logo",
+            "name": "Breakfast Careals",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/rstb8fbortn6f868mznd.png",
+            "alt": "Herbal-logo",
+            "name": "Herbal Juices",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/rabrbljquehqgd6xza9j.png",
+            "alt": "Nutritional-logo",
+            "name": "Nutritional Drinks",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/jvqtphggru8juyrasmj8.png",
+            "alt": "Dry-Fruits-logo",
+            "name": "Dry Fruits",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/tyislu0jse29jkwwegb8.jpg",
+            "alt": "Honey-logo",
+            "name": "Honey",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/j6ztzgme9mhsqobumxdb.png",
+            "alt": "Healthy-logo",
+            "name": "Healthy Snacks",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/vchcj8b7onea3rmfml5z.png",
+            "alt": "Superfoods-logo",
+            "name": "Superfoods",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/rxqxi3eybpds7l8mymrt.png",
+            "alt": "Apple-logo",
+            "name": "Apple Cider Vinegar",
+            "id": "9"
+        }
+    ],
+    "HealthCare_Device": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/25832f67-b59e-4c68-81a0-6b67ce0b1a6e.webp",
+            "alt": "Morepen-logo",
+            "name": "Dr Morepen",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/5b24fd4f-ddbe-4b53-b1d3-97107c44762b.webp",
+            "alt": "Accu-logo",
+            "name": "Accu-check",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c3015a12-3ac7-48d2-92c9-072bc9113010.webp",
+            "alt": "Omron-logo",
+            "name": "Omron",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c932de9c-ee8b-4edf-ae6b-8b9c882bcb79.webp",
+            "alt": "Contour-logo",
+            "name": "Contour",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/751cc51d-a84e-499e-afe6-7f2197684471.webp",
+            "alt": "OneTouch-logo",
+            "name": "OneTouch",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/d6f2e4a2-1dd8-43fe-ae99-fe61777f478d.webp",
+            "alt": "Trust-logo",
+            "name": "Dr Trust",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/32571bdc-487c-4ebe-98f9-9aa91464fd76.webp",
+            "alt": "Tynor-logo",
+            "name": "Tynor",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/02e74893-3203-4bd5-8b1e-375b28f62a62.webp",
+            "alt": "Hansaplast-logo",
+            "name": "Hansaplast",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/295fa7a6-58c0-4ae5-8057-e33bef42b6f2.webp",
+            "alt": "Care-logo",
+            "name": "Care View",
+            "id": "9"
+        }
+    ],
+    "Ayurvede_shop": [
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/3fe7c683-eefe-4a3b-b4bb-0c0997a06e16.jpg",
+            "alt": "Stomach-logo",
+            "name": "Stomach Care",
+            "id": "1"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1f97d6d6-946a-497b-b4d3-6ba371cbffe5.png",
+            "alt": "Sexual-logo",
+            "name": "Sexual Wellness",
+            "id": "2"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/42328506-48f7-4f0d-a1c0-1ee5378fee8c.png",
+            "alt": "Diabetes-logo",
+            "name": "Diabetes Care",
+            "id": "3"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/0826bd1a-58b1-4de1-a8fc-664f77bd912e.png",
+            "alt": "Bone-logo",
+            "name": "Bone, Joint & Muscle Care",
+            "id": "4"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bdca4156-0320-4f0d-9168-7fd472d5fc4e.png",
+            "alt": "OneTouch-logo",
+            "name": "Cough, Cold & Fever",
+            "id": "5"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/926a7683-ac0b-4410-817c-723a04ec24c7.png",
+            "alt": "Ayurveda-logo",
+            "name": "Ayurveda Cardiac Care",
+            "id": "6"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1e52d42e-7a21-4a88-81f1-0853a9b00cb7.png",
+            "alt": "Mind-logo",
+            "name": "Mind Care",
+            "id": "7"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/134a075f-1ac2-4e60-ad55-7263e50dccd6.png",
+            "alt": "Liver-logo",
+            "name": "Liver Care",
+            "id": "8"
+        },
+        {
+            "img": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1532432c-f7db-40c5-9968-d9e45afd7942.png",
+            "alt": "Respiratory-logo",
+            "name": "Respiratory Care",
+            "id": "9"
         }
     ],
     "Ayurveda_sec": [
@@ -1864,6 +2467,20 @@
             "id": 5,
             "name": "BeatO",
             "url": "https://onemg.gumlet.io/q_auto,c_fit,f_auto,h_150,a_ignore,w_150/mjsaizdmejqbdokg3olk.png"
+        }
+    ],
+    "users": [
+        {
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "password": "123",
+            "id": 1
+        },
+        {
+            "name": "a",
+            "email": "a@gmail.com",
+            "password": "123",
+            "id": 2
         }
     ]
 }
